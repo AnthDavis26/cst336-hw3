@@ -1,8 +1,12 @@
 body {
 	color:white;
-	background-color: #4d596b;
+	background-color: #2b2639;
 }
 
 form {
 	border-style: solid;
+}
+
+#weatherInfo {
+	background-color: black;
 }
